@@ -1,75 +1,33 @@
-# Nuxt Minimal Starter
+# Edumapper technical test
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Nuxt application to demonstrate basic level for Edumapper.
 
-## Setup
+Simple application with Nuxt and tailwind to create a basic form.
 
-Make sure to install dependencies:
+## Installation
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Usage
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## Features
 
-Build the application for production:
+- Nuxt 3
+- Tailwind CSS
+- Basic form with expandable cards
 
-```bash
-# npm
-npm run build
+## Why a select in the highschool selection
 
-# pnpm
-pnpm build
+Select is in my opinion the best way to have a large number of option while maintaining an appealing design at the end.
+Radio buttons would have been too long. And ComboBox tend to be used in the case where you can have multiple selection.
 
-# yarn
-yarn build
+## Small break
 
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Sorry I had a 30 minute break in the middle since I had to attend a bit to my baby during lunch break so that my wife could eat.
+Since I started at 11h30 and finished it at 14h, it goes in the limits of the 2 hours asked.
