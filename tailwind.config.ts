@@ -9,6 +9,7 @@ export default <Partial<Config>>{
         'main-border': 'rgba(27, 27, 27, 0.1)',
         black: '#1B1B1B',
         focus: '#B176FF',
+        gray: '#646A81',
       },
       spacing: {
         tablet: '720px',

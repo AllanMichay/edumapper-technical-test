@@ -30,7 +30,7 @@
         </div>
       </div>
       <div>
-        <Button @click.default="handleEdition">
+        <Button @click.prevent="handleEdition">
           {{ isEditing ? 'Enregistrer' : 'Modifier' }}
         </Button>
       </div>
