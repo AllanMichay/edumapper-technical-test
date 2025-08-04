@@ -1,13 +1,16 @@
-import type { Config } from 'tailwindcss'
+import type { Config } from 'tailwindcss';
 
 export default <Partial<Config>>{
-    theme: {
+  theme: {
     extend: {
       colors: {
         beige: '#F7F3F0',
-				card: '#FF7342',
-				'main-border': 'rgba(27, 27, 27, 0.1)'
-      }
-    }
-  }
-}
+        card: '#FF7342',
+        'main-border': 'rgba(27, 27, 27, 0.1)',
+      },
+      spacing: {
+        tablet: '720px',
+      },
+    },
+  },
+};
